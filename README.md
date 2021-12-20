@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RedHunter7
+- 👋 Hi, I’m Adli rafif
 - 👀 I’m interested in Web and Game Programming
 - 📫 My portofolio website : https://adli-rafif.netlify.app
 
