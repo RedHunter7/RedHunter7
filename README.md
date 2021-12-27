@@ -4,6 +4,7 @@
 - 👋 Hi, I’m Adli rafif
 - 👀 I’m interested in Web and Game Programming
 - 📫 My portofolio website : https://adli-rafif.netlify.app
+- 🎮 Play my games on itch.io : https://redhunter7.itch.io/
 
 ## 📝 My Latest Blog - [Adli Rafif- dev.to](https://dev.to/redhunter7)
 * [Flutter - Create Simple Line Chart](https://dev.to/redhunter7/flutter-create-simple-line-chart-1h5n) 
