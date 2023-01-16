@@ -22,7 +22,6 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
 
 ## 📈 Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redhunter7)](https://github.com/anuraghazra/github-readme-stats)
 [![Adli GitHub stats](https://github-readme-stats.vercel.app/api?username=redhunter7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) <br>
 [![Adli Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redhunter7&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
